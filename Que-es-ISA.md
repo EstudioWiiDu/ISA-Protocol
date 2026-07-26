@@ -160,7 +160,7 @@ Un cambio es consistente cuando
 
 - Marca (7)  
 - Servicio (7)  
-- SubservicioFormación (7) opcional  
+- Opcional (7) (Subservicio, Formación)
 
 ### Motores
 
@@ -168,4 +168,4 @@ Un cambio es consistente cuando
 - Gemini  
 - Perplexity  
 
-Total por ciclo 4263 tests.
+Total por ciclo 42-63 tests.
