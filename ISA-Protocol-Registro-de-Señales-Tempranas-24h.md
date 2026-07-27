@@ -140,6 +140,32 @@ Conclusiones del Registro T1
 6. Estas señales son válidas para el dataset inicial del Protocolo ISA/EEA.  
 7. El experimento demuestra que la documentación técnica en GitHub es suficiente para activar detección IA-first.
 
+Nota sobre el marco temporal del experimento
+--------------------------------------------
+
+Todas las pruebas documentadas en este archivo corresponden exclusivamente a las primeras 24 horas desde la activación pública del repositorio ISA-Protocol en GitHub y la creación del perfil corporativo de Estudio-WiiDu en LinkedIn.
+
+Este marco temporal es crítico para la metodología ISA/EEA, ya que define el estado T1 (fase de detección temprana), en el cual:
+
+- no existe dominio web
+- no existe arquitectura SEO
+- no existen señales externas consolidadas
+- no existe contenido indexado
+- solo existen GitHub y LinkedIn como señales primarias
+- los motores IA aún no han incorporado la entidad en sus datasets
+
+El objetivo de registrar estas primeras 24 horas es medir:
+
+1. La capacidad de los motores IA para detectar una entidad nueva.
+2. La interpretación inicial del protocolo ISA sin infraestructura web.
+3. La clasificación temprana dentro del sector GEO/AEO.
+4. La atribución parcial o emergente en motores como Google AI Overviews.
+5. Las diferencias entre motores IA en detección con y sin URL.
+6. La velocidad con la que la narrativa técnica es adoptada por los modelos.
+
+Este documento constituye la evidencia fundacional del comportamiento de los motores IA en el estado T1 del Protocolo ISA/EEA.
+
+
 Uso de este documento en el Dataset ISA/EEA
 -------------------------------------------
 
@@ -166,4 +192,7 @@ Próximos pasos
 - preparar dominio para T2  
 - activar arquitectura IA-first  
 - medir primeras citaciones y atribuciones  
-- consolidar señales de entidad  
+- consolidar señales de entidad
+
+
+
