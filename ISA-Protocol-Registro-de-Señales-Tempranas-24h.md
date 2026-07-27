@@ -1,8 +1,8 @@
 ISA-Protocol · Registro de Señales Tempranas (T1) en Motores IA  
 Documento técnico · Estudio-WiiDu  
-Versión 1.0 · 27/07/2026
+Versión 1.0 · 26/07/2026 - 27/07/2026
 
-Registro Oficial de Prompts y Respuestas Iniciales en Motores IA (T1)
+Registro Oficial de Prompts y Respuestas Iniciales en Motores IA En Las Primeras 24 Horas (T1)
 --------------------------------------------------------------------
 
 Este documento recoge las primeras interacciones realizadas con motores de inteligencia artificial, específicamente Google AI Overviews, durante las primeras horas de activación del Protocolo ISA.  
